@@ -1,0 +1,22 @@
+{
+    "name": "os-x-flat-dark",
+    "displayName": "OS X Flat Dark",
+    "description": "Port of the OS X Flat Dark theme for Brackets.",
+    "version": "1.0.0",
+    "publisher": "nick-james",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OS X Flat Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OS X Flat Dark-color-theme.json"
+            }
+        ]
+    }
+}
