@@ -6,7 +6,7 @@ This is a dark and flat theme for VS Code ported from the Brackets.io theme http
 
 ## Recommended Fonts
 
-* Consolas (used in screenshots, 13px)
+* Consolas
 * Hack
 * Menlo
 * Source Code Pro
