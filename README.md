@@ -2,6 +2,8 @@
 
 This is a dark and flat theme for VS Code ported from the Brackets.io theme https://github.com/altayaydemir/brackets-osx-flat-dark-theme.
 
+![screenshot](images/screenshot.png)
+
 ## Recommended Fonts
 
 * Consolas (used in screenshots, 13px)
