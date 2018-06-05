@@ -4,6 +4,15 @@
     "description": "Port of the OS X Flat Dark theme for Brackets.",
     "version": "1.0.0",
     "publisher": "nick-james",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/omniomi/theme-osxflatdark.git"
+    },
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#1F1F21",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.20.0"
     },

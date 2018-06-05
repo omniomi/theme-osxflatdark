@@ -4,7 +4,7 @@
 	"colors": {
 		"editor.background": "#1F1F21",
 		"editor.foreground": "#F7F7F7",
-		"focusBorder": "#47484B",
+		"focusBorder": "#3f4043",
 		"editorCursor.foreground": "#F7F7F7",
 		"editor.selectionBackground": "#BBBBBB",
 		"editor.inactiveSelectionBackground": "#838383",
@@ -26,7 +26,7 @@
 		"statusBar.border": "#F7F7F711",
 		"input.background": "#1F1F21",
 		"input.foreground": "#F7F7F7",
-		"sideBar.background": "#47484B",
+		"sideBar.background": "#3f4043",
 		"sideBar.foreground": "#F7F7F7",
 		"sideBarSectionHeader.background": "#F7F7F711",
 		"sideBarSectionHeader.foreground": "#F7F7F7",
